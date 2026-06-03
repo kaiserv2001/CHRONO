@@ -1,0 +1,312 @@
+[
+  {
+    "id": "1",
+    "slug": "heritage-i",
+    "name": "Heritage I",
+    "brand": "CHRONO",
+    "collection": "heritage",
+    "price": 12500,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80",
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80"
+    ],
+    "description": "The Heritage I stands as the cornerstone of the CHRONO collection, embodying decades of Swiss watchmaking tradition in a single, breathtaking timepiece. Its hand-guilloché dial, finished in smoky black lacquer, catches light with hypnotic precision. Every element speaks to an uncompromising pursuit of horological excellence.",
+    "shortDescription": "The flagship Heritage — Swiss-made, hand-guilloché dial, 72-hour power reserve.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-01, Manual Wind",
+      "caseDiameter": "40mm",
+      "caseThickness": "9.2mm",
+      "caseMaterial": "Grade 5 Titanium",
+      "dialColor": "Smoky Black Lacquer",
+      "crystal": "Domed Sapphire, AR-coated",
+      "waterResistance": "50m",
+      "powerReserve": "72 hours",
+      "bracelet": "Hand-stitched Black Alligator",
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "tags": ["flagship", "manual", "titanium", "guilloché"],
+    "featured": true,
+    "new": false
+  },
+  {
+    "id": "2",
+    "slug": "heritage-midnight",
+    "name": "Heritage Midnight",
+    "brand": "CHRONO",
+    "collection": "heritage",
+    "price": 9800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80"
+    ],
+    "description": "Inspired by the silence of midnight, this timepiece wears a deep blue sunburst dial that transitions from cobalt to midnight black at its edges. Paired with a hand-polished rose gold case, the Heritage Midnight is an exercise in controlled contrast. It is a watch that tells more than time.",
+    "shortDescription": "Deep blue sunburst dial meets rose gold — quiet sophistication for evening wear.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-02, Automatic",
+      "caseDiameter": "38mm",
+      "caseThickness": "8.5mm",
+      "caseMaterial": "18k Rose Gold",
+      "dialColor": "Midnight Blue Sunburst",
+      "crystal": "Flat Sapphire, AR-coated",
+      "waterResistance": "30m",
+      "powerReserve": "48 hours",
+      "bracelet": "Navy Blue Satin Strap",
+      "functions": ["Hours", "Minutes", "Small Seconds"]
+    },
+    "tags": ["rose gold", "dress", "sunburst", "automatic"],
+    "featured": false,
+    "new": false
+  },
+  {
+    "id": "3",
+    "slug": "heritage-grand",
+    "name": "Heritage Grand",
+    "brand": "CHRONO",
+    "collection": "heritage",
+    "price": 18900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80"
+    ],
+    "description": "The Heritage Grand is CHRONO's most complex heritage piece, housing an in-house perpetual calendar movement beneath a skeletonised silver dial. Each bridge has been individually chamfered and polished by a single master watchmaker. Fewer than 50 are produced annually.",
+    "shortDescription": "In-house perpetual calendar, skeletonised dial — fewer than 50 made per year.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-08, Manual, Perpetual Calendar",
+      "caseDiameter": "42mm",
+      "caseThickness": "11.4mm",
+      "caseMaterial": "Platinum 950",
+      "dialColor": "Skeletonised Silver",
+      "crystal": "Box Sapphire, AR-coated both sides",
+      "waterResistance": "30m",
+      "powerReserve": "96 hours",
+      "bracelet": "Hand-stitched Cognac Alligator",
+      "functions": ["Hours", "Minutes", "Seconds", "Day", "Date", "Month", "Year", "Moon Phase"]
+    },
+    "tags": ["platinum", "skeleton", "perpetual calendar", "limited"],
+    "featured": true,
+    "new": false
+  },
+  {
+    "id": "4",
+    "slug": "sport-pro",
+    "name": "Sport Pro",
+    "brand": "CHRONO",
+    "collection": "sport",
+    "price": 6400,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+    ],
+    "description": "Built for performance without sacrificing refinement, the Sport Pro houses a COSC-certified chronograph movement in a brushed titanium case rated to 200m. Its black ceramic bezel is scratch-resistant and precise to 1/10th of a second. This is a watch that keeps pace with ambition.",
+    "shortDescription": "COSC-certified chronograph, 200m water resistance, black ceramic bezel.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-10, Automatic Chronograph, COSC",
+      "caseDiameter": "44mm",
+      "caseThickness": "13.2mm",
+      "caseMaterial": "Grade 5 Titanium",
+      "dialColor": "Matte Black",
+      "crystal": "Flat Sapphire, AR-coated",
+      "waterResistance": "200m",
+      "powerReserve": "60 hours",
+      "bracelet": "Integrated Titanium Bracelet",
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date", "Tachymeter"]
+    },
+    "tags": ["chronograph", "titanium", "sport", "COSC"],
+    "featured": false,
+    "new": true
+  },
+  {
+    "id": "5",
+    "slug": "sport-diver",
+    "name": "Sport Diver",
+    "brand": "CHRONO",
+    "collection": "sport",
+    "price": 5200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80",
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80"
+    ],
+    "description": "The Sport Diver descends to 300 metres with unwavering composure, courtesy of a helium escape valve and triple-sealed crown. Its lume-coated indices glow for over 12 hours with a cool, balanced light. For those who find the deep sea preferable to any boardroom.",
+    "shortDescription": "300m dive-rated, helium escape valve, 12-hour lume, unidirectional ceramic bezel.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-12, Automatic",
+      "caseDiameter": "43mm",
+      "caseThickness": "14.0mm",
+      "caseMaterial": "316L Stainless Steel",
+      "dialColor": "Deep Ocean Blue",
+      "crystal": "Domed Sapphire, AR-coated",
+      "waterResistance": "300m",
+      "powerReserve": "70 hours",
+      "bracelet": "Oyster-style Steel with Wet-suit Extension",
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Unidirectional Bezel"]
+    },
+    "tags": ["diver", "steel", "lume", "300m"],
+    "featured": false,
+    "new": false
+  },
+  {
+    "id": "6",
+    "slug": "sport-gmt",
+    "name": "Sport GMT",
+    "brand": "CHRONO",
+    "collection": "sport",
+    "price": 7800,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80"
+    ],
+    "description": "The Sport GMT was designed for those who live across time zones. Its bidirectional 24-hour bezel tracks a third timezone at a glance, while the lacquered black dial with gold index markers ensures legibility at altitude or sea level. A companion for the perpetually in-transit.",
+    "shortDescription": "Triple timezone tracking, bidirectional 24-hour bezel, in-house GMT movement.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-15, Automatic GMT",
+      "caseDiameter": "41mm",
+      "caseThickness": "12.1mm",
+      "caseMaterial": "Grade 5 Titanium / Ceramic Bezel",
+      "dialColor": "Black Lacquer with Gold Indices",
+      "crystal": "Flat Sapphire, AR-coated",
+      "waterResistance": "100m",
+      "powerReserve": "68 hours",
+      "bracelet": "Five-link Titanium Bracelet",
+      "functions": ["Hours", "Minutes", "Seconds", "GMT", "24hr Bezel", "Date"]
+    },
+    "tags": ["GMT", "travel", "titanium", "ceramic bezel"],
+    "featured": true,
+    "new": false
+  },
+  {
+    "id": "7",
+    "slug": "dress-ultra-thin",
+    "name": "Dress Ultra-Thin",
+    "brand": "CHRONO",
+    "collection": "dress",
+    "price": 14200,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80"
+    ],
+    "description": "At 5.9mm thick, the Dress Ultra-Thin defies the laws of mechanical engineering. Its manually-wound movement floats beneath a silver opaline dial of ethereal thinness, held within an 18k white gold case that tapers at the lugs like a whisper. The art of saying everything with almost nothing.",
+    "shortDescription": "5.9mm total thickness, 18k white gold, opaline silver dial — refined to the extreme.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-20, Ultra-Thin Manual",
+      "caseDiameter": "39mm",
+      "caseThickness": "5.9mm",
+      "caseMaterial": "18k White Gold",
+      "dialColor": "Silver Opaline",
+      "crystal": "Flat Sapphire, single AR-coat",
+      "waterResistance": "30m",
+      "powerReserve": "40 hours",
+      "bracelet": "Hand-stitched Ivory Alligator",
+      "functions": ["Hours", "Minutes"]
+    },
+    "tags": ["ultra-thin", "white gold", "dress", "minimalist"],
+    "featured": false,
+    "new": true
+  },
+  {
+    "id": "8",
+    "slug": "dress-moonphase",
+    "name": "Dress Moonphase",
+    "brand": "CHRONO",
+    "collection": "dress",
+    "price": 11600,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80",
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80"
+    ],
+    "description": "The moonphase complication has enchanted watchmakers for centuries, and the CHRONO Dress Moonphase elevates it to new heights with a hand-painted celestial disc accurate to one day in 122 years. The champagne dial with blued-steel hands is the kind of understatement that commands a room.",
+    "shortDescription": "Hand-painted moonphase accurate to 122 years, champagne dial, blued-steel hands.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-22, Automatic",
+      "caseDiameter": "40mm",
+      "caseThickness": "10.4mm",
+      "caseMaterial": "18k Yellow Gold",
+      "dialColor": "Champagne Lacquer",
+      "crystal": "Box Sapphire, AR-coated both sides",
+      "waterResistance": "30m",
+      "powerReserve": "52 hours",
+      "bracelet": "Hand-stitched Tan Crocodile",
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Moonphase"]
+    },
+    "tags": ["moonphase", "yellow gold", "dress", "champagne"],
+    "featured": false,
+    "new": false
+  },
+  {
+    "id": "9",
+    "slug": "noir-limited",
+    "name": "Noir Limited",
+    "brand": "CHRONO",
+    "collection": "limited",
+    "price": 38500,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80"
+    ],
+    "description": "Edition of 24. The Noir Limited is CHRONO's boldest statement — an all-black DLC-coated titanium case housing a micro-rotor movement with a black PVD mainplate visible through an exhibition caseback. The dial is ruthenium-plated, the indices are polished black ceramic. It is unapologetically absolute.",
+    "shortDescription": "Edition of 24. Full black DLC titanium, ruthenium dial, micro-rotor — uncompromising.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-30, Automatic Micro-Rotor",
+      "caseDiameter": "41mm",
+      "caseThickness": "10.8mm",
+      "caseMaterial": "DLC-Coated Grade 5 Titanium",
+      "dialColor": "Ruthenium Black",
+      "crystal": "Flat Sapphire, anti-reflective",
+      "waterResistance": "100m",
+      "powerReserve": "80 hours",
+      "bracelet": "Black Rubber with Titanium Deployant",
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Power Reserve"]
+    },
+    "tags": ["limited", "DLC", "black", "micro-rotor", "edition of 24"],
+    "featured": false,
+    "new": false
+  },
+  {
+    "id": "10",
+    "slug": "founders-edition",
+    "name": "Founders Edition",
+    "brand": "CHRONO",
+    "collection": "limited",
+    "price": 44900,
+    "currency": "USD",
+    "images": [
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=800&q=80",
+      "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=80",
+      "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=800&q=80"
+    ],
+    "description": "Edition of 10. The Founders Edition marks CHRONO's inaugural year with a tourbillon movement assembled entirely by the founding master watchmaker. The Grand Feu enamel dial, fired seven times to achieve its luminous ivory depth, will never fade. Each is individually signed, numbered, and accompanied by a private session with its maker.",
+    "shortDescription": "Edition of 10. Tourbillon, Grand Feu enamel dial, signed by the founding watchmaker.",
+    "specs": {
+      "movement": "CHRONO Calibre CH-F1, Manual Tourbillon",
+      "caseDiameter": "42mm",
+      "caseThickness": "12.6mm",
+      "caseMaterial": "Platinum 950",
+      "dialColor": "Grand Feu Ivory Enamel",
+      "crystal": "Domed Sapphire, AR-coated both sides",
+      "waterResistance": "30m",
+      "powerReserve": "100 hours",
+      "bracelet": "Hand-stitched Black Alligator with Platinum Buckle",
+      "functions": ["Hours", "Minutes", "Tourbillon", "Power Reserve"]
+    },
+    "tags": ["tourbillon", "platinum", "enamel", "limited", "founders", "edition of 10"],
+    "featured": false,
+    "new": false
+  }
+]
